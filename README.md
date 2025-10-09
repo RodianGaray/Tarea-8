@@ -7,7 +7,7 @@
 
 ---
 
-## 📘 Descripción General
+## Descripción General
 
 Este proyecto tiene como objetivo crear tres máquinas virtuales (Rocky Linux, Kali Linux y Windows), configurarlas correctamente dentro de un entorno de red interna y comprobar que se puedan comunicar entre sí mediante pruebas de conectividad.  
 
@@ -15,7 +15,7 @@ La práctica permite comprender el funcionamiento de las máquinas virtuales, la
 
 ---
 
-## 🎯 Propósito de la Práctica
+## Propósito de la Práctica
 
 - Desarrollar habilidades en la instalación y configuración de sistemas operativos virtualizados.  
 - Comprender los conceptos de redes internas, adaptadores de puente y comunicación entre máquinas.  
@@ -24,7 +24,7 @@ La práctica permite comprender el funcionamiento de las máquinas virtuales, la
 
 ---
 
-## 🧰 Materiales y Requisitos
+## Materiales y Requisitos
 
 | Elemento | Descripción |
 |-----------|--------------|
@@ -36,7 +36,7 @@ La práctica permite comprender el funcionamiento de las máquinas virtuales, la
 
 ---
 
-## 🧩 Estructura del Repositorio
+## Estructura del Repositorio
 ```
 Proyecto-VMs/
 │
@@ -54,9 +54,9 @@ Proyecto-VMs/
 
 ---
 
-## ⚙️ Paso a Paso de la Configuración
+## Paso a Paso de la Configuración
 
-### 🟢 1. Creación de máquina virtual – Rocky Linux
+### 1. Creación de máquina virtual – Rocky Linux
 1. Abrir VirtualBox → “Nueva”.
 2. Nombre: `RockyLinux`  
    Tipo: `Linux`, Versión: `Red Hat (64-bit)`.
@@ -161,4 +161,4 @@ ping 192.168.10.10
 ping 192.168.10.11
 ```
 
-✅ Si todas las máquinas responden correctamente, la comunicación entre sistemas está establecida.
+
