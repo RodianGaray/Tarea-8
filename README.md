@@ -162,10 +162,21 @@ ping 192.168.10.11
 ```
 
 ## Imagenes del paso a paso 
-### Rocky linux 
-
-### Windows
+### Rocky linux
+![Tare-5](7.jpg)  
+![Tare-5](7.jpg)  
+![Tare-5](7.jpg)  
+![Tare-5](7.jpg)  
 
 ### Kali linux 
+![Tare-5](7.jpg)  
+![Tare-5](7.jpg)  
+### Windows
+![Tare-5](7.jpg)  
+![Tare-5](7.jpg)  
+![Tare-5](7.jpg)  
+![Tare-5](7.jpg)  
+![Tare-5](7.jpg)  
+
 
 
