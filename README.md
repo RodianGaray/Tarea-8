@@ -161,4 +161,11 @@ ping 192.168.10.10
 ping 192.168.10.11
 ```
 
+## Imagenes del paso a paso 
+### Rocky linux 
+
+### Windows
+
+### Kali linux 
+
 
