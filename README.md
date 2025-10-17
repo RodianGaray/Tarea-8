@@ -163,20 +163,20 @@ ping 192.168.10.11
 
 ## Imagenes del paso a paso 
 ### Rocky linux
-![Tare-5](7.jpg)  
-![Tare-5](7.jpg)  
-![Tare-5](7.jpg)  
-![Tare-5](7.jpg)  
+![Tare-8](1.jpg)  
+![Tare-8](2.jpg)  
+![Tare-8](3.jpg)  
+![Tare-8](4.jpg)  
 
 ### Kali linux 
-![Tare-5](7.jpg)  
-![Tare-5](7.jpg)  
+![Tare-8](5.jpg)  
+![Tare-8](6.jpg)  
 ### Windows
-![Tare-5](7.jpg)  
-![Tare-5](7.jpg)  
-![Tare-5](7.jpg)  
-![Tare-5](7.jpg)  
-![Tare-5](7.jpg)  
+![Tare-8](7.jpg)  
+![Tare-8](8.jpg)  
+![Tare-8](9.jpg)  
+![Tare-8](11.jpg)  
+
 
 
 
